@@ -685,4 +685,8 @@ export default {
 .custom_table_class {
   /* border-collapse: collapse; */
 }
+.v-data-table {
+  background:url(@/assets/watermarked.png) no-repeat; 
+  background-position: center;
+}
 </style>
